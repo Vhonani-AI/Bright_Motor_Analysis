@@ -131,9 +131,9 @@ Excel was used to transform SQL outputs from Databricks into high-impact visual 
 • Support evidence-based storytelling in the final presentation
 
 
+---
 
-
-## 4. HTML Presentation – Final Presentation
+## 4. PowerPoint Presentation – Final Presentation
 
 A professional presentation was developed to communicate findings in a clear and business-focused format.
 Preview of results: View Presentation
@@ -181,7 +181,7 @@ Structure
 
 
 
-Recommendations
+**Recommendations**
 
 • Optimize Pricing: Realign below-market vehicles toward market rates, targeting a $40M margin recovery.
 
