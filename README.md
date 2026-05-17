@@ -1,6 +1,6 @@
-##Bright Motors Car Sales Analysis Project
+# Bright Motors Car Sales Analysis Project
 
-##Project Overview
+## Project Overview
 
 This project focuses on analysing transactional and pricing data for Bright Motors over an 18-month period (January 2014 - July 2015).
 
@@ -8,44 +8,36 @@ The objective is to extract actionable insights from historical car sales data t
 
 The analysis was conducted using SQL in Databricks, supported by additional tools for planning, visualisation, and presentation.
 
+---
 
-
-
-##Problem Statement
+## Problem Statement
 
 Bright Motors has recently appointed a new Head of Sales whose mission is to grow the dealership network and improve overall performance. There is a need to explore historical sales data to identify top-performing brands, understand the relationship between vehicle characteristics (price, mileage, age) and sales, and uncover regional trends to guide future sales and marketing strategies.
 
+---
 
-
-
-##Aim
+## Aim
 
 The aim of this project is to analyse car sales data, identify key market trends and behavioural patterns, and provide clear, actionable recommendations to increase dealership profitability and operational efficiency.
 
+---
 
-
-
-##Objectives
+## Objectives
 
 The following steps were taken to complete the project:
 
-•
-Project planning using Canva
+• Project planning using Canva
 
-•
-Structuring and brainstorming using Miro
+• Structuring and brainstorming using Miro
 
-•
-Data cleaning and analysis using Databricks (SQL)
+• Data cleaning and analysis using Databricks (SQL)
 
-•
-Data visualisation using Excel
+• Data visualisation using Excel
 
-•
-Presentation of findings using HTML Slides
+• Presentation of findings using HTML Slides
 
 
-
+---
 
 ##1. MIRO – Project Planning and Mind Map
 
@@ -53,25 +45,19 @@ A structured mind map was created to guide the analytical approach and ensure a 
 
 **Key Areas Covered**
 
-•
-Data understanding (137,809 transactions, column relationships)
+• Data understanding (137,809 transactions, column relationships)
 
-•
-Data cleaning strategy (handling missing values, numeric conversions)
+• Data cleaning strategy (handling missing values, numeric conversions)
 
-•
-Exploratory Data Analysis (EDA)
+• Exploratory Data Analysis (EDA)
 
-•
-Business analysis (brand performance, revenue efficiency, time trends)
+• Business analysis (brand performance, revenue efficiency, time trends)
 
-•
-Profitability and pricing analysis
+• Profitability and pricing analysis
 
-•
-Strategic insights and recommendations
+• Strategic insights and recommendations
 
-Purpose
+**Purpose**
 
 •
 Break down the sales data into manageable analytical steps
