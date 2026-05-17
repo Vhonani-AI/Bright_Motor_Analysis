@@ -1,6 +1,6 @@
-Bright Motors Car Sales Analysis Project
+##Bright Motors Car Sales Analysis Project
 
-Project Overview
+##Project Overview
 
 This project focuses on analysing transactional and pricing data for Bright Motors over an 18-month period (January 2014 - July 2015).
 
@@ -11,21 +11,21 @@ The analysis was conducted using SQL in Databricks, supported by additional tool
 
 
 
-Problem Statement
+##Problem Statement
 
 Bright Motors has recently appointed a new Head of Sales whose mission is to grow the dealership network and improve overall performance. There is a need to explore historical sales data to identify top-performing brands, understand the relationship between vehicle characteristics (price, mileage, age) and sales, and uncover regional trends to guide future sales and marketing strategies.
 
 
 
 
-Aim
+##Aim
 
 The aim of this project is to analyse car sales data, identify key market trends and behavioural patterns, and provide clear, actionable recommendations to increase dealership profitability and operational efficiency.
 
 
 
 
-Objectives
+##Objectives
 
 The following steps were taken to complete the project:
 
@@ -47,11 +47,11 @@ Presentation of findings using HTML Slides
 
 
 
-1. MIRO – Project Planning and Mind Map
+##1. MIRO – Project Planning and Mind Map
 
 A structured mind map was created to guide the analytical approach and ensure a clear understanding of the car sales dataset.
 
-Key Areas Covered
+**Key Areas Covered**
 
 •
 Data understanding (137,809 transactions, column relationships)
