@@ -39,7 +39,7 @@ The following steps were taken to complete the project:
 
 ---
 
-##1. MIRO – Project Planning and Mind Map
+## 1. MIRO – Project Planning and Mind Map
 
 A structured mind map was created to guide the analytical approach and ensure a clear understanding of the car sales dataset.
 
@@ -59,187 +59,145 @@ A structured mind map was created to guide the analytical approach and ensure a 
 
 **Purpose**
 
-•
-Break down the sales data into manageable analytical steps
+• Break down the sales data into manageable analytical steps
 
-•
-Establish a clear approach for multi-dimensional analysis
+• Establish a clear approach for multi-dimensional analysis
 
-•
-Ensure logical flow from raw data to business recommendations
+• Ensure logical flow from raw data to business recommendations
 
 
+--
 
-
-2. Canva – Project Timeline (Gantt Chart)
+## 2. Canva – Project Timeline (Gantt Chart)
 
 A project timeline was developed to track progress and manage deliverables across the analysis lifecycle.
 
-Phases Included
+**Phases Included**
 
-Phase 1: Foundation
+**Phase 1: Foundation**
 
-•
-Understanding the Bright Motors case study
+• Understanding the Bright Motors case study
 
-•
-Data inspection and initial exploration
+• Data inspection and initial exploration
 
-•
-Data cleaning and preparation in Databricks
+• Data cleaning and preparation in Databricks
 
-Phase 2: Analysis and Output
+ 
+**Phase 2: Analysis and Output**
 
-•
-Brand and revenue performance analysis using SQL
+• Brand and revenue performance analysis using SQL
 
-•
-Geographic and segment-based distribution
+• Geographic and segment-based distribution
 
-•
-Profitability and margin insight generation
+• Profitability and margin insight generation
 
-•
-Final deliverables (HTML presentation and GitHub documentation)
-
-Purpose
-
-•
-Maintain structure and organisation throughout the analysis
-
-•
-Ensure efficient time management for complex data tasks
-
-•
-Deliver the final insights within the required timeframe
+• Final deliverables (HTML presentation and GitHub documentation)
 
 
+**Purpose**
 
+• Maintain structure and organisation throughout the analysis
+
+• Ensure efficient time management for complex data tasks
+
+• Deliver the final insights within the required timeframe
+
+
+---
 
 3. Excel – Data Visualisation
 
 Excel was used to transform SQL outputs from Databricks into high-impact visual representations.
 
-Visuals Created
+**Visuals Created**
 
-•
-Top 10 car makes by units sold and total revenue
+• Top 10 car makes by units sold and total revenue
 
-•
-Monthly sales trends and seasonal anomalies (2014-2015)
+• Monthly sales trends and seasonal anomalies (2014-2015)
 
-•
-Sales distribution by vehicle body type and mileage band
+• Sales distribution by vehicle body type and mileage band
 
-•
-Profitability distribution by tier and average profit by make
+• Profitability distribution by tier and average profit by make
 
-•
-Geographic sales volume by state (Top 10)
+• Geographic sales volume by state (Top 10)
 
-Purpose
 
-•
-Transform 137,809 raw records into visual insights
+**Purpose**
 
-•
-Identify patterns in pricing and profitability efficiently
+• Transform 137,809 raw records into visual insights
 
-•
-Support evidence-based storytelling in the final presentation
+• Identify patterns in pricing and profitability efficiently
+
+• Support evidence-based storytelling in the final presentation
 
 
 
 
-4. HTML Presentation – Final Presentation
+## 4. HTML Presentation – Final Presentation
 
 A professional presentation was developed to communicate findings in a clear and business-focused format.
 Preview of results: View Presentation
 
 Structure
 
-•
-Executive Summary: $1.73B in revenue across 137,809 transactions
+• Executive Summary: $1.73B in revenue across 137,809 transactions
 
-•
-Brand Analysis: Volume vs. Revenue efficiency (Ford, BMW, Mercedes)
+• Brand Analysis: Volume vs. Revenue efficiency (Ford, BMW, Mercedes)
 
-•
-Market Trends: 2015 sales surge and January anomaly
+• Market Trends: 2015 sales surge and January anomaly
 
-•
-Segmentation: Body type and geographic distribution
+• Segmentation: Body type and geographic distribution
 
-•
-Profitability: The challenge of negative average margins
+• Profitability: The challenge of negative average margins
 
-•
-Pricing: Below-market value sales and mileage impact
+• Pricing: Below-market value sales and mileage impact
 
-•
-Strategic Recommendations: Actionable levers for growth
+• Strategic Recommendations: Actionable levers for growth
 
-Purpose
 
-•
-Present findings professionally to the Head of Sales
+**Purpose**
 
-•
-Translate complex data into clear business insights
+• Present findings professionally to the Head of Sales
 
-•
-Demonstrate analytical, technical, and communication skills
+• Translate complex data into clear business insights
+
+• Demonstrate analytical, technical, and communication skills
 
 
 
+**Key Insights**
 
-Key Insights
+• Market Volume: The dataset represents a massive $1.73B market, but average profit is negative at –$292 per vehicle.
 
-•
-Market Volume: The dataset represents a massive $1.73B market, but average profit is negative at –$292 per vehicle.
+• Brand Leadership: Ford dominates in volume (22k+ units), while BMW and Mercedes-Benz lead in revenue efficiency.
 
-•
-Brand Leadership: Ford dominates in volume (22k+ units), while BMW and Mercedes-Benz lead in revenue efficiency.
+• Concentrated Markets: Nearly 30% of all national sales are driven by California and Florida.
 
-•
-Concentrated Markets: Nearly 30% of all national sales are driven by California and Florida.
+• Segment Dominance: Sedans and SUVs account for 69% of all sales, reflecting core consumer demand.
 
-•
-Segment Dominance: Sedans and SUVs account for 69% of all sales, reflecting core consumer demand.
+• Pricing Inefficiency: 46.5% of vehicles are sold below market value, indicating significant lost revenue opportunities.
 
-•
-Pricing Inefficiency: 46.5% of vehicles are sold below market value, indicating significant lost revenue opportunities.
-
-•
-Profitability Gap: 85.5% of transactions fall into the "Low Margin" tier, highlighting a systemic profitability challenge.
-
+• Profitability Gap: 85.5% of transactions fall into the "Low Margin" tier, highlighting a systemic profitability challenge.
 
 
 
 Recommendations
 
-•
-Optimize Pricing: Realign below-market vehicles toward market rates, targeting a $40M margin recovery.
+• Optimize Pricing: Realign below-market vehicles toward market rates, targeting a $40M margin recovery.
 
-•
-Focus on Premium Segments: Prioritize luxury makes (BMW, Mercedes) and high-demand body types (SUVs).
+• Focus on Premium Segments: Prioritize luxury makes (BMW, Mercedes) and high-demand body types (SUVs).
 
-•
-Geographic Expansion: Deepen presence in CA and FL while expanding into high-potential mid-tier states.
+• Geographic Expansion: Deepen presence in CA and FL while expanding into high-potential mid-tier states.
 
-•
-Inventory Rebalancing: Reduce reliance on high-mileage, low-condition inventory that drives down margins.
+• Inventory Rebalancing: Reduce reliance on high-mileage, low-condition inventory that drives down margins.
 
-•
-Dynamic Pricing: Implement data-driven pricing models to reduce the proportion of below-market transactions.
+• Dynamic Pricing: Implement data-driven pricing models to reduce the proportion of below-market transactions.
 
-•
-Retention Strategy: Focus on high-value customers in top-performing regions.
+• Retention Strategy: Focus on high-value customers in top-performing regions.
 
 
 
-
-Summary of Results
+**Summary of Results**
 
 The analysis highlights that Bright Motors’ performance is driven by high volume in domestic brands like Ford and Chevrolet, but profitability remains a critical challenge with an overall average loss per unit. Sales are highly concentrated in coastal regions and core segments like Sedans and SUVs.
 
@@ -247,54 +205,41 @@ While 2015 saw a significant surge in activity, particularly in January, the pla
 
 Overall, the platform has a strong foundation for growth. By shifting toward premium inventory, optimising pricing for high-condition vehicles, and diversifying its geographic reach, Bright Motors is well-positioned to turn high volume into sustainable profitability.
 
-
-
+---
 
 Tools and Technologies
 
-•
-Databricks (SQL) – Data cleaning and analysis
+• Databricks (SQL) – Data cleaning and analysis
 
-•
-Excel – Data visualisation
+• Excel – Data visualisation
 
-•
-Miro – Project planning and mind mapping
+• Miro – Project planning and mind mapping
 
-•
-Canva – Timeline and Gantt chart creation
+• Canva – Timeline and Gantt chart creation
 
-•
-HTML/CSS – Professional slide deck generation
+• Powerpoint – Professional slide maker
 
 
-
+---
 
 Key Skills Demonstrated
 
-•
-Data cleaning and preparation (137k+ records)
+• Data cleaning and preparation (137k+ records)
 
-•
-Exploratory Data Analysis (EDA)
+• Exploratory Data Analysis (EDA)
 
-•
-SQL querying (joins, aggregations, CASE statements, grouping)
+• SQL querying (joins, aggregations, CASE statements, grouping)
 
-•
-Data transformation and feature engineering (Profit tiers, Mileage bands)
+• Data transformation and feature engineering (Profit tiers, Mileage bands)
 
-•
-Data visualisation and storytelling
+• Data visualisation and storytelling
 
-•
-Business insight generation and strategic planning
+• Business insight generation and strategic planning
 
-•
-Project planning and structured workflow execution
+• Project planning and structured workflow execution
 
 
-
+---
 
 Conclusion
 
@@ -303,7 +248,7 @@ This project demonstrates how raw transactional car sales data can be transforme
 It also reflects my developing skills in SQL, data analysis, and problem-solving, as well as my ability to connect technical findings to real-world business scenarios. This project establishes a strong foundation for data-driven sales strategy and demonstrates clear potential for further growth in professional data analytics.
 
 
+---
 
-
-By: Vhonani Mphoshomale - Junior Analyst
+# By: Vhonani Mphoshomale - Junior Analyst
 
