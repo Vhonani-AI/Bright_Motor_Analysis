@@ -66,7 +66,7 @@ A structured mind map was created to guide the analytical approach and ensure a 
 • Ensure logical flow from raw data to business recommendations
 
 
---
+---
 
 ## 2. Canva – Project Timeline (Gantt Chart)
 
@@ -105,7 +105,7 @@ A project timeline was developed to track progress and manage deliverables acros
 
 ---
 
-3. Excel – Data Visualisation
+### 3. Excel – Data Visualisation
 
 Excel was used to transform SQL outputs from Databricks into high-impact visual representations.
 
